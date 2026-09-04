@@ -19,7 +19,7 @@
 <a href="#kontak">Kontak</a>
 </nav>
 
-<main class="konten">
+<main class="konten">https://github.com/apizgans/ppwd26.git
 <section id="tentang">
 <h2>Tentang Saya</h2>
 <p>Halo! Saya Apiz, Mahasiswa yang sedang belajar membuat web
